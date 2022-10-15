@@ -16,3 +16,5 @@ Please refer to the LICENSE in the repo.
 
 ## Features
 The top nav bar will help direct you to specific sections of the webpage. 
+## ScreenShot
+https://courses.bootcampspot.com/courses/2445/files/2187328/preview
